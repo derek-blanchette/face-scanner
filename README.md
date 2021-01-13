@@ -5,7 +5,7 @@ Place source video in /video subfolder.
 
 From the project folder open CMD/Terminal and run:
 
-`python faceRipperVid.py -i "file.mp4"`
+`python face-ripper.py -i "file.mp4"`
 
 Note:
 + Output is to a subfolder in /results named after the source file
