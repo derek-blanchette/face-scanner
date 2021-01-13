@@ -1,5 +1,8 @@
 # face-ripper: extract faces from video
 
+## About
+Face-ripper uses the face detection deep neural network (dnn) in OpenCV to detect, label and extract faces from supported video formats. To be clear, this is an amateur Python project so expect the unexpected. 
+
 ## Running the app locally
 Place source video in `video` subfolder.
 
